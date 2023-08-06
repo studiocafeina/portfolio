@@ -9,6 +9,11 @@
 .u-section-1 .u-image-1 {
   width: 113px;
   height: 115px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: 93px auto 22px;
 }
 
